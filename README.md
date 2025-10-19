@@ -1,6 +1,6 @@
 # Data Analysis With Python
 
-This repository contains a collection of data analysis projects completed using Python. Each project demonstrates a different aspect of data manipulation, visualization, and statistical computation using popular libraries such as **pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
+This repository contains a collection of data analysis projects completed using Python for the Free Code Camp Course. Each project demonstrates a different aspect of data manipulation, visualization, and statistical computation using popular libraries such as **pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
 
 ---
 

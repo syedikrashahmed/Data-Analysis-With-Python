@@ -23,7 +23,10 @@ Uses historical sea level data to model and predict future trends through linear
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/syedikrashahmed/Data-Analysis-With-Python.git
+## Technologies Used
+- **Python 3**
+- **pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **scikit-learn** (for regression modeling)
